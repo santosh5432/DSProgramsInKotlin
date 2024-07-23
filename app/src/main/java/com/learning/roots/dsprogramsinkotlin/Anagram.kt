@@ -37,6 +37,5 @@ fun isAnagram(first: String, second: String): Boolean {
                 secondStringMap[it] = second.count { char -> char == it }
         }
     }
-
     return firstStringMap == secondStringMap
 }
