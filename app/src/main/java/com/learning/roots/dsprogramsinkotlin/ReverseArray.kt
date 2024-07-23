@@ -1,5 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
+/**
+ * Reverse the given integer array
+ */
 fun main() {
     val items = arrayOf(1, 2, 5, 6, 7, 8, 9)
     val length = items.size

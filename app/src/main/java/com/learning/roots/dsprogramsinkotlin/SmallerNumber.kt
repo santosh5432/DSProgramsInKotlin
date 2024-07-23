@@ -1,6 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
-/*Find the count of smaller numbers than given range item*/
+/**
+ * Find the count of smaller numbers below than given range item
+ */
 
 fun main() {
     val items = arrayOf(1, 2, 3, 3, 3, 4, 6, 7, 8, 9)

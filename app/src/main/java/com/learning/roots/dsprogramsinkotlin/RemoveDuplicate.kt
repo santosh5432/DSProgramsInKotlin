@@ -1,5 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
+/**
+ * Remove duplicate numbers from integer array
+ */
 fun main() {
     val length = 8
     val itemArray = arrayOf(2, 2, 3, 3, 4, 4, 5, 8)

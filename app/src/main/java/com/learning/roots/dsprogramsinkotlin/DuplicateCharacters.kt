@@ -1,6 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
-/*Find duplicate or repeated characters in String*/
+/**
+ * Find duplicate or repeated characters in String
+ */
 
 fun main() {
     val name = "android development hai to karo "

@@ -1,5 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
+/**
+ * Fibonacci series
+ */
 fun main(){
     fibonacciSeries(3)
 }

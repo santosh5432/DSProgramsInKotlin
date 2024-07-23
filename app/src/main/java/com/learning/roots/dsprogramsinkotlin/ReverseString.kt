@@ -1,5 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
+/**
+ * Reverse the string
+ */
 fun main() {
     val name = "vadaY hsotnaS"
     val reverseString = reversString(name.toCharArray())

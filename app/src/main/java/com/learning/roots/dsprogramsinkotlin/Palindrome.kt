@@ -1,5 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
+/**
+ * Palindrome string
+ */
 fun main(){
 
     val str="addas"

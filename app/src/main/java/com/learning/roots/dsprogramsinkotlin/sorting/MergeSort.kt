@@ -1,5 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin.sorting
 
+/**
+ * Merge Sort
+ */
 
 fun main() {
     val unsortedArray = intArrayOf(60, 51, 32, 8, 71, 22, 14)

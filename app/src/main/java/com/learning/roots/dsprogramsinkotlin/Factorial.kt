@@ -1,5 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
+/**
+ * Factorial of given number
+ */
 fun main() {
     val num = 2
     println(getFactorial(num))

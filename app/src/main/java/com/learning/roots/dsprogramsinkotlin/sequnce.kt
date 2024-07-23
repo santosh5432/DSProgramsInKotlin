@@ -1,8 +1,10 @@
 package com.learning.roots.dsprogramsinkotlin
 
-/*Iterate the array from given element
-to end of array and to start of array
-until you didn't find the element again */
+/**
+ * Iterate the array from given element
+ * to end of array and to start of array
+ * until you didn't find the element again
+ */
 
 fun main() {
     val items = arrayOf(1, 2, 3, 4, 5, 6, 7)

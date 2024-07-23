@@ -1,6 +1,8 @@
 package com.learning.roots.dsprogramsinkotlin
 
-/*In Progress*/
+/**
+ * In progress
+ */
 fun main() {
     val items = getArray()
     items.forEach {
