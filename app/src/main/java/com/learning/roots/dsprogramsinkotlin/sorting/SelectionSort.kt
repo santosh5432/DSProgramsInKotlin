@@ -22,6 +22,6 @@ fun selectionSort(items: IntArray): IntArray {
       }
     }
 
-
     return items
 }
+

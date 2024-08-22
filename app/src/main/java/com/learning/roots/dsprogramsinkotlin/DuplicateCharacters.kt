@@ -5,7 +5,7 @@ package com.learning.roots.dsprogramsinkotlin
  */
 
 fun main() {
-    val name = "android development hai to karo "
+    val name = "android development, I am loving it"
     val nameArray = name.map { it }
     val duplicateMap = hashMapOf<Char, Int>()
 

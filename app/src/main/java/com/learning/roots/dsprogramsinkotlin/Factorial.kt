@@ -4,7 +4,7 @@ package com.learning.roots.dsprogramsinkotlin
  * Factorial of given number
  */
 fun main() {
-    val num = 2
+    val num = 3
     println(getFactorial(num))
 }
 
