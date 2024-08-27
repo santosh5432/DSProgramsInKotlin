@@ -13,7 +13,7 @@ fun main() {
 fun getArray(): IntArray {
     val numArray = arrayOf(3, 2, 4)
     val target = 6
-    var numCombination = arrayListOf<Int>()
+    val numCombination = arrayListOf<Int>()
     for (num in numArray) {
         for (i in 1 until numArray.size) {
             if (num + numArray[i] == target) {
